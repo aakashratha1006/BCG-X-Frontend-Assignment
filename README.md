@@ -1,1 +1,0 @@
-# BCG-X-Frontend-Assignment
