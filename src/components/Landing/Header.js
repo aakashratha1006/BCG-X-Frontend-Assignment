@@ -10,8 +10,8 @@ const Header = () => {
         alignItems: "center",
         justifyContent: "space-between",
         padding: "16px 24px",
-        backgroundColor: "transparent", // Removed background
-        marginBottom: "10px", // Reduced spacing between header and cards
+        backgroundColor: "transparent", 
+        marginBottom: "10px", 
       }}
     >
       {/* Left Section: Text + Button in One Row */}

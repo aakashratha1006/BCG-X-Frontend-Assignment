@@ -12,7 +12,7 @@ const Navbar = () => {
         backgroundColor: "black",
         height: "60px",
         boxShadow: "none",
-        borderBottom: "1px solid rgba(255, 255, 255, 0.12)", // Adds subtle border
+        borderBottom: "1px solid rgba(255, 255, 255, 0.12)",
       }}
     >
       <Toolbar sx={{ backgroundColor: "black" }}>

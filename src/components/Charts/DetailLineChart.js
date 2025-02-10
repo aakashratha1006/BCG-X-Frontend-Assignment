@@ -42,8 +42,7 @@ const CustomTooltip = ({ active, payload, label }) => {
 const DetailLineChart = ({ 
   data, 
   showAIForecast, 
-  showFinalForecast, 
-  showConfidenceInterval,
+  showFinalForecast,
   showHistorical 
 }) => {
   if (!data || data.length === 0) return null;
